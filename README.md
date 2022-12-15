@@ -2,9 +2,9 @@
 <h3 align="center">A passionate space enthusiast who is an upcoming SDE.</h3>
 <p align="left"> <a href="https://twitter.com/mohajitp" target="blank"><img src="https://img.shields.io/twitter/follow/mohajitp?logo=twitter&style=for-the-badge" alt="mohajitp" /></a> </p>
 
-- 🔭 I’m currently working on ** a JS based Website**
+- 🔭 I’m currently working on ** Ethereum Projects on the Blockchain**
 
-- 🌱 I’m currently learning **DSA, Problem Solving, Web Development**
+- 🌱 I’m currently learning **DSA, Blockchain, Ethererum, Solidity Problem Solving, Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohajit2711](https://github.com/mohajit2711)
 
